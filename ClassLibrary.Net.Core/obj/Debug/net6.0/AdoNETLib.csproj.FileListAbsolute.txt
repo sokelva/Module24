@@ -1,0 +1,12 @@
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\bin\Debug\net6.0\AdoNETLib.deps.json
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\bin\Debug\net6.0\AdoNETLib.dll
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\bin\Debug\net6.0\AdoNETLib.pdb
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\obj\Debug\net6.0\AdoNETLib.csproj.AssemblyReference.cache
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\obj\Debug\net6.0\AdoNETLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\obj\Debug\net6.0\AdoNETLib.AssemblyInfoInputs.cache
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\obj\Debug\net6.0\AdoNETLib.AssemblyInfo.cs
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\obj\Debug\net6.0\AdoNETLib.csproj.CoreCompileInputs.cache
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\obj\Debug\net6.0\AdoNETLib.dll
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\obj\Debug\net6.0\refint\AdoNETLib.dll
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\obj\Debug\net6.0\AdoNETLib.pdb
+C:\Users\LocalUser\SkillFactory\repos\Module24\ClassLibrary.Net.Core\obj\Debug\net6.0\ref\AdoNETLib.dll

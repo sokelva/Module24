@@ -1,0 +1,3 @@
+C:\Users\LocalUser\SkillFactory\repos\Module24\AdoNETModuleConsole\obj\Debug\AdoNETModuleConsole.csproj.AssemblyReference.cache
+C:\Users\LocalUser\SkillFactory\repos\Module24\AdoNETModuleConsole\obj\Debug\AdoNETModuleConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\LocalUser\SkillFactory\repos\Module24\AdoNETModuleConsole\obj\Debug\AdoNETModuleConsole.csproj.CoreCompileInputs.cache
