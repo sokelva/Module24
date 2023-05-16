@@ -1,6 +1,7 @@
 ﻿using AdoNETLib.Configurations;
 using Microsoft.Data.SqlClient;
 using System.Data;
+using Microsoft.Data.SqlClient;
 
 namespace AdoNETLib
 {
@@ -32,6 +33,20 @@ namespace AdoNETLib
                 await connection.CloseAsync();
             }
         }
+
+        public SqlConnection GetConnection()
+        {
+            if (connection.State == ConnectionState.Open)
+            {
+                return connection;
+            }
+            else
+            {
+                throw new Exception("Подключение уже закрыто!");
+            }
+        }
+
+       
 
     }
 }
